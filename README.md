@@ -1,4 +1,7 @@
-# Bucket-Ball-Pridoction-
+# Bucket-Ball-Pridiction-
+
+It's a Simple Bucket ball Pridiction Project
+
 
 ![image](https://github.com/iftekharalammithu/Bucket-Ball-Pridoction-/assets/40330358/9267e6dd-2cac-43fb-bf72-0cd6617aa901)
 
