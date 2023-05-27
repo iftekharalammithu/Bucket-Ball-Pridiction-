@@ -1,3 +1,4 @@
 # Bucket-Ball-Pridoction-
 
-<iframe width="560" height="315" src="https://github.com/iftekharalammithu/Bucket-Ball-Pridoction-/blob/main/result_vid_2.mp4"></iframe>
+https://github.com/iftekharalammithu/Bucket-Ball-Pridoction-/assets/40330358/7fb10808-2a21-4a34-b5ca-333502de3050
+
